@@ -19,3 +19,5 @@ This add-on allows you to easily deploy and integrate [tydom2mqtt](https://bbo76
 ### 6. Go to the add-on `Info` tab and click on the `Start` button
 
 ### 7. Go to the add-on `Log` tab and check that the add-on is working as expected
+
+## PS: This is a fork of tydom2mqtt, thanks to https://github.com/fmartinou for all the work.
